@@ -1,1 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2023-01-19T07:33:33.502Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="LfbW7DlkdNBrJtPzTRBz" type="github"><diagram id="-uN1NC09Hdjg_29MvAgi">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-19T08:02:02.485Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="pN99U7RB2QLYMC4aSC4y" type="github">
+  <diagram id="YPccTKy6SMFwb7SAPTub" name="ページ1">
+    <mxGraphModel dx="683" dy="375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="exUD_tQTBHfpHAonWpkd-101" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=21;fontColor=#000000;endWidth=50.49886621315193;endSize=9.285714285714285;width=23.333333333333332;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.0000000000001" y="320" as="sourcePoint" />
+            <mxPoint x="400" y="380" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exUD_tQTBHfpHAonWpkd-102" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="414" y="100" width="130" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="exUD_tQTBHfpHAonWpkd-94" value="特徴&lt;br&gt;データ" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=18;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="exUD_tQTBHfpHAonWpkd-102">
+          <mxGeometry x="15" y="170" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="exUD_tQTBHfpHAonWpkd-96" value="" style="group" vertex="1" connectable="0" parent="exUD_tQTBHfpHAonWpkd-102">
+          <mxGeometry width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="exUD_tQTBHfpHAonWpkd-10" value="" style="group" vertex="1" connectable="0" parent="exUD_tQTBHfpHAonWpkd-96">
+          <mxGeometry x="20" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="exUD_tQTBHfpHAonWpkd-11" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=19;" vertex="1" parent="exUD_tQTBHfpHAonWpkd-10">
+          <mxGeometry x="15" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="exUD_tQTBHfpHAonWpkd-12" value="&lt;font style=&quot;font-size: 21px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;LOG&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="exUD_tQTBHfpHAonWpkd-10">
+          <mxGeometry y="30" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="exUD_tQTBHfpHAonWpkd-13" value="&lt;font color=&quot;#000000&quot;&gt;テストデータ&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=21;fontColor=#FFFFFF;" vertex="1" parent="exUD_tQTBHfpHAonWpkd-96">
+          <mxGeometry y="80" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="exUD_tQTBHfpHAonWpkd-99" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=21;fontColor=#000000;" edge="1" parent="exUD_tQTBHfpHAonWpkd-102">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="64.7600000000001" y="120" as="sourcePoint" />
+            <mxPoint x="64.7600000000001" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exUD_tQTBHfpHAonWpkd-103" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="260" y="100" width="120" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="exUD_tQTBHfpHAonWpkd-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=21;fontColor=#000000;" edge="1" parent="exUD_tQTBHfpHAonWpkd-103">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="59.75999999999999" y="120" as="sourcePoint" />
+            <mxPoint x="59.75999999999999" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="exUD_tQTBHfpHAonWpkd-98" value="" style="group" vertex="1" connectable="0" parent="exUD_tQTBHfpHAonWpkd-103">
+          <mxGeometry width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="exUD_tQTBHfpHAonWpkd-3" value="" style="group" vertex="1" connectable="0" parent="exUD_tQTBHfpHAonWpkd-98">
+          <mxGeometry x="15" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="exUD_tQTBHfpHAonWpkd-1" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=19;" vertex="1" parent="exUD_tQTBHfpHAonWpkd-3">
+          <mxGeometry x="15" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="exUD_tQTBHfpHAonWpkd-2" value="&lt;font style=&quot;font-size: 21px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;LOG&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="exUD_tQTBHfpHAonWpkd-3">
+          <mxGeometry y="30" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="exUD_tQTBHfpHAonWpkd-4" value="&lt;font color=&quot;#000000&quot;&gt;学習データ&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=21;fontColor=#FFFFFF;" vertex="1" parent="exUD_tQTBHfpHAonWpkd-98">
+          <mxGeometry y="80" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="exUD_tQTBHfpHAonWpkd-100" value="特徴&lt;br&gt;データ" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=18;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="exUD_tQTBHfpHAonWpkd-103">
+          <mxGeometry x="10" y="170" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="exUD_tQTBHfpHAonWpkd-104" value="類似度" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=18;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="280" y="390" width="240" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
