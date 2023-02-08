@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2023-02-08T05:19:43.819Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.13" etag="miq7UrVvluE-APYiIVcP" type="github"><diagram name="ページ1" id="QjeHSQKjp2hUllKTD253">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-08T05:28:07.994Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="bnph4dCFPjz6aBWKaMiP" version="20.8.13" type="github">
+  <diagram name="ページ1" id="QjeHSQKjp2hUllKTD253">
+    <mxGraphModel dx="1434" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XIuBmqXELJXCCU3DEwat-2" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=21;" vertex="1" parent="1">
+          <mxGeometry x="189.38" y="189.12" width="75" height="93.75" as="geometry" />
+        </mxCell>
+        <mxCell id="XIuBmqXELJXCCU3DEwat-3" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;LOG&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=#000000;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#FFFFFF;fontStyle=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="170" y="220.99" width="113.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XIuBmqXELJXCCU3DEwat-4" value="&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#000000&quot;&gt;モデルB&lt;br&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=8.17882352941163;rounded=1;labelBackgroundColor=none;fontSize=22;fontColor=#FFFFFF;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="450.01" y="440" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XIuBmqXELJXCCU3DEwat-5" value="&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#000000&quot;&gt;モデルA&lt;br&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=8.17882352941163;rounded=1;labelBackgroundColor=none;fontSize=22;fontColor=#FFFFFF;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="176.88" y="440" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XIuBmqXELJXCCU3DEwat-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=1;fontSize=18;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="235.41000000000008" as="sourcePoint" />
+            <mxPoint x="430" y="235.41000000000008" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XIuBmqXELJXCCU3DEwat-12" value="背番号&lt;br&gt;入れ替え" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="300" y="181" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XIuBmqXELJXCCU3DEwat-14" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=21;" vertex="1" parent="1">
+          <mxGeometry x="460.64" y="189.12" width="75" height="93.75" as="geometry" />
+        </mxCell>
+        <mxCell id="XIuBmqXELJXCCU3DEwat-15" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;LOG&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=#000000;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#FFFFFF;fontStyle=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="441.26" y="220.99" width="113.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XIuBmqXELJXCCU3DEwat-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=1;fontSize=18;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="226.38" y="340.0000000000001" as="sourcePoint" />
+            <mxPoint x="226.38" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XIuBmqXELJXCCU3DEwat-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=1;fontSize=18;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="499.5100000000001" y="340" as="sourcePoint" />
+            <mxPoint x="499.5100000000001" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XIuBmqXELJXCCU3DEwat-19" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fillColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="304" y="479.5" as="sourcePoint" />
+            <mxPoint x="414" y="479.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XIuBmqXELJXCCU3DEwat-20" value="テストデータ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="171.88" y="291" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XIuBmqXELJXCCU3DEwat-21" value="入れ替え後の&lt;br&gt;ログファイル" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="443.14" y="300" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XIuBmqXELJXCCU3DEwat-23" value="モデル同士を&lt;br&gt;比較" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="303.5" y="410" width="110" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
