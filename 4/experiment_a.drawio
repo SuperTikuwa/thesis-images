@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-08T05:15:34.041Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="i16nDIdeckSdMvqzJMAj" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-08T05:16:16.175Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="35yodP8xB9Jyu0cbOnuS" version="20.8.13" type="github">
   <diagram name="ページ1" id="foNejhQpv58raCO9X5WB">
     <mxGraphModel dx="1687" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,8 +46,8 @@
             <mxPoint x="529.41" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5ekteXIeJURZdxyqF-8k-12" value="従来手法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="300" y="200" width="110" height="30" as="geometry" />
+        <mxCell id="5ekteXIeJURZdxyqF-8k-12" value="従来手法" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="300" y="190" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5ekteXIeJURZdxyqF-8k-13" value="提案手法" style="text;html=1;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="143.63" y="350" width="360" height="30" as="geometry" />
