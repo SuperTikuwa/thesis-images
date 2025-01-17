@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.6">
   <diagram id="TI-GIG5H_0KkrUldOSP5" name="Page-1">
-    <mxGraphModel dx="660" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="792" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -112,19 +112,19 @@
         <mxCell id="7yj_Xj90nkkpukN7qVi3-17" value="プレイヤー" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="120" y="81" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="keh6fd4Irn6TkMi-arDn-1" value="プレイヤー" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="keh6fd4Irn6TkMi-arDn-1" value="プレイヤー" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="120" y="150" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="keh6fd4Irn6TkMi-arDn-2" value="プレイヤー" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="keh6fd4Irn6TkMi-arDn-2" value="プレイヤー" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="120" y="270" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="keh6fd4Irn6TkMi-arDn-3" value="プレイヤー" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="keh6fd4Irn6TkMi-arDn-3" value="プレイヤー" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="540" y="81" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="keh6fd4Irn6TkMi-arDn-4" value="プレイヤー" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="keh6fd4Irn6TkMi-arDn-4" value="プレイヤー" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="540" y="150" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="keh6fd4Irn6TkMi-arDn-5" value="プレイヤー" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="keh6fd4Irn6TkMi-arDn-5" value="プレイヤー" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="540" y="270" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
